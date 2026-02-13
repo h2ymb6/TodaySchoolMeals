@@ -29,5 +29,3 @@ const MealApi = async (date) => {
 };
 
 export default MealApi;
-
-//c43f08953fcd48ceba0efbabe945516e 인증키
